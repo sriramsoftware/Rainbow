@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>./images/movie1.png</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>./images/movie2.png</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>./images/movie3.png</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>./images/movie4.png</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>./images/movie5.png</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>./images/movie6.png</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>./images/movie7.png</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>./images/movie8.png</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>./images/movie9.png</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>./images/movie10.png</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>./images/movie11.png</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>./images/movie12.png</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>./images/movie13.png</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>./images/movie14.png</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>./images/movie15.png</ImageUrl>
+  </Ad>
+
+</Advertisements>
